@@ -1,9 +1,9 @@
-package service;
+package com.dio.api.agenda_telefone.service;
 
-import model.Contato;
+import com.dio.api.agenda_telefone.model.Contato;
+import com.dio.api.agenda_telefone.repository.ContatoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.ContatoRepository;
 
 import java.util.List;
 
