@@ -1,4 +1,4 @@
-package model;
+package com.dio.api.agenda_telefone.model;
 
 
 import jakarta.persistence.*;
